@@ -1,9 +1,7 @@
 # Hi I'm Nate 👋 
 >_Sr. UX Designer @Adobe, Spectrum Design System_
 
-I am a **user experience designer** with a focus on **design systems**. My path started in illustration and fine art and evolved to where I am today. I'm facinated by color an visual perception, as well as the mathematics of design. I'm an author and maintainer of our enterprise-level design system tokens at Adobe, and I'm constantly working to _perfect my gif game_.
-
-![Gif Bill Hader saying its practical](https://media0.giphy.com/media/26ufaqo3YRPQ24HPW/giphy.gif?cid=ecf05e473kkq0pb5izjjvfzcvkcg6wwdplxeczdkb4qvp9pw&rid=giphy.gif)
+I am a **user experience designer** with a focus on **design systems**. My path started in illustration and fine art and evolved to where I am today. I'm facinated by color an visual perception, as well as the mathematics of design. I'm an author and maintainer of our enterprise-level design system tokens at Adobe.
 
 
 ### Articles
