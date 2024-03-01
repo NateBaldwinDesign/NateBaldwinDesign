@@ -1,5 +1,5 @@
 # Hi I'm Nate 👋 
->_Sr. UX Designer @Adobe, Spectrum Design System_
+>_Principal Product Designer @Intuit, Intuit Design System_
 
 I am a **user experience designer** with a focus on **design systems**. My path started in illustration and fine art and evolved to where I am today. I'm facinated by color an visual perception, as well as the mathematics of design. I'm an author and maintainer of our enterprise-level design system tokens at Adobe.
 
